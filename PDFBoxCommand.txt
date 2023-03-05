@@ -1,0 +1,4 @@
+javaProject\pdfValidation>java -jar pdfbox-app-3.0.0-alpha3.jar debug "one.pdf"
+
+very PDF
+https://www.verypdf.com/app/pdf-to-txt-converter/try-and-buy.html#buy-cvt

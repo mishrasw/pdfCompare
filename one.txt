@@ -1,0 +1,223 @@
+The trial version will only convert the first a few pages from a PDF file to a text file,
+if you need to convert more pages, please purchase it from 'www.verypdf.com' site.
+Swarup Mishra
+Chapter Lead - Quality Engineering                 Mobile : +64 22 506 5992
+                                                   EMail : mishra.swarup@gmail.com
+                                                   Address:122A Brougham Street, Mount Victoria, Wellington, 6011
+
+
+
+Resume Highlights                                            Employment History
+
+●   16 years of experience as a Software Test                ●   Chapter Lead Quality Engineering at Westpac,
+    Professional in Automation and Manual testing                Wellington, New Zealand from March 21 to till
+●   Currently working as a Chapter Lead for Quality              date.
+    Engineering at Westpac Bank, New Zealand                 ●   Lead Consultant at Infosys, Wellington, New
+●   Working as a Test Manager for Westpac’s Lending              Zealand from May 18 to March 21.
+    Application testing(Microsoft D365 application)          ●   Test Automation Architect at Value Momentum,
+●   Expertise in implementing Test Automation                    Hyderabad from Mar 17 to May 18.
+    Framework for Microsoft Dynamics 365(CRM)                ●   Senior Test Automation Lead at DBS, Hyderabad
+    applications, using C#, Selenium and Easy Repro              from May 16 to Mar 17.
+●   Responsible for hiring and mentoring quality             ●   Test Automation Architect at Cigniti Technologies,
+    engineers and setting up teams for new and existing          Hyderabad from Feb 15 to May 16.
+    engagements                                              ●   Associate Test Lead at Blackrock Solutions India Pvt
+●   Responsible for coaching & training for team                 Ltd, Gurgaon from Feb 13 to Feb 2015.
+    members and maintaining knowledge management             ●   Associate Test Lead at Royal Bank of Scotland,
+    across QA team                                               Gurgaon from Dec 10 to Feb 13.
+●   Demonstrated solutions for Shift-Left in agile testing   ●   Automation Test Lead Aristocrat Technologies
+    and test automation for Agile projects                       (CMMI level 5), Noida from Jan 10 to Dec 10.
+●   Expertise in implementing QA processes &                 ●   Automation Test Engineer in Wipro Technologies
+    methodologies for new and existing QA Projects.              (CMMI level 5), Delhi NCR from Nov 08 to Jan 10.
+●   Experience creating Test Strategy, test plan and         ●   IT Consultant in LogicaCMG (CMMI level 5),
+    scoping to deliver top quality product                       Bangalore from Jul 06 to Nov 08.
+●   Expertise in design/blueprint, development and
+    implementation of test automation frameworks for
+                                                             Tools & Technologies
+    Web Applications using open source tools e.g.
+    Selenium with JAVA, C#, Ruby
+                                                             ●   Test Automation Tools - Selenium (Web Driver,
+●   Expertise in Mobile Apps Test Automation using
+                                                                 GRID, IDE), Appium (iOS, Android), UFT/QTP, See
+    Appium, Perfecto Mobile & See Test
+                                                                 Test, Perfecto Mobile, JMeter, Test Complete, LISA
+●   Experience in API(REST API) testing and Automation
+                                                             ●   Automation Frameworks - Test Driven
+    using RestSharp, Rest Assured & Postman
+                                                                 Development (TDD), Behavior Driven Development
+●   Designed and implemented various types of Test
+                                                                 (BDD), Page Object Model (POM), Hybrid
+    Automation frameworks depending on project need
+                                                                 Framework, Modular Framework, Keyword Driven
+    e.g. TDD and BDD (Cucumber,
+                                                                 Framework
+    SpecFlow,Serenity),Hybrid,data-driven, Keyword
+                                                             ●   Programming Languages - Java, C#, VB script, Shell
+    Driven, Modular Frameworks etc
+                                                                 Script, SQL
+●   Expert Dev-Ops implementation and done CI/CD
+                                                             ●   Dev-Ops, CI/CD Tools - Jenkins/Hudson, Microsoft
+    using Jenkins, Azure Dev-ops, Docker &
+                                                                 Azure, TFS, Docker, Selenoid & Moon, Maven,
+    Selenoid/Moon
+                                                                 Gradle, TestNG / JUnit / NUnit, SVN and CVS,
+●   Demonstrated solid experience in participating in
+                                                                 Git,Bitbucket, Bamboo
+    various Proposals and Proof of Concepts
+                                                             ●   Test Management Tools - ALM/QC , Test Frame,
+●   Expertise in Investment Banking (Asset
+                                                                 TD,JIRA, Go-JIRA
+    Management and Market Risk), Consumer
+                                                             ●   Domain/Expertise - Investment Banking, Retail
+    Banking(Lending, Cards etc) and insurance domain.
+                                                                 Banking(Lending, Cards etc), Insurance, MS
+                                                                 Dynamics 365, Guidewire
+Swarup Mishra
+Chapter Lead - Quality Engineering                Mobile : +64 22 506 5992
+                                                  EMail : mishra.swarup@gmail.com
+                                                  Address:122A Brougham Street, Mount Victoria, Wellington, 6011
+
+
+
+                                                          Roles:
+Project Details
+                                                            ● Worked as a Lead consultant for the test
+                                                                 automation assignment
+Westpac New Zealand Ltd, Wellington, NZ
+                                                            ● Developed test automation roadmap
+Chapter Lead Quality Engineering, Nov, 2018 – Till date
+                                                            ● Designed and implemented solution to
+Project - CRM - MS Dynamics 365 - Lending
+                                                                 automate high business critical applications and
+                                                                 web services using Behavior Driven Framework
+Westpac is a prestigious bank in Australia & New Zealand.
+                                                            ● Identify and recommend tools for web and
+The current project is to Test and Automate Westpac’s
+                                                                 mobile automation for Apple’s GSX application
+Lending Application used by internal users,e.g.
+                                                            ● Designed Pixel-to-Pixel comparison framework
+Relationship Managers, Credit Managers etc. This
+                                                                 for web and mobile Visual Validation testing on
+application is built on Microsoft CRM Dynamics 365 as
+                                                                 desktop and mobile UI
+the front end integrated with several third party systems
+                                                            ● Identified and implemented end to end
+including IBM mainframe system.
+                                                                 integration of automation framework with
+Roles:
+● Working as a Chapter Lead / Technical manager in               DevOps System and Continuous
+                                                                 Integration(Jenkins) tools
+     current project
+●   Executed Test Plan and Automation plan for
+    microsoft Dynamics 365 applications automation         Value Momentum, Hyderabad, India
+●                                                          Automation Architect, March, 2017 – May 2018
+    Designed and implemented Test Automation
+                                                           Project: Claims (GUIDEWIRE), GEICO Insurance
+    Framework using C#, Selenium
+    webDriver,Specflow(BDD) & Microsoft
+                                                           GEICO is a key account for Value Momentum. The
+    EasyRepro(Microsoft’s Test Automation framework
+                                                           project was to use Guidewire products to automate a
+    for CRM front end)
+                                                           new implementation of Claims module.I was working
+●   Integration of automation framework with DevOps
+                                                           as a test automation architect in the current project.
+    (TFS/NUnit/MSBuild) and Continuous
+                                                           Roles:
+    Integration(Azure Pipeline) toolsets
+                                                             ● Designed and implemented Test Automation
+●   Implemented Solenoid & later Moon(advanced
+                                                                  Framework using Selenium webDriver with C#
+    solenoid environment) to facilitate effective test
+                                                             ● Implemented mobile automation using Appium
+    execution
+                                                                  and C#
+●   Responsible for Goal setting and motivation for          ● Developed a dynamic keyword driven
+    reporting resources. Provided time to time feedback           framework for client analysts
+    and improvement ideas for resources which helped         ● Integrated with DevOps (TFS/NUnit/MS Build)
+    them to achieve their goals.                                  System and Continuous Integration(Jenkins)
+●   Hiring and mentoring quality engineers for the team           tools
+
+Infosys Ltd, Hyderabad, India                              DBS Bank, Hyderabad, India, Senior Test Lead,
+Lead Consultant, May, 2018 – Nov, 2018                     May, 2016 – March, 2017
+Project – Apple Inc, CA, USA                               Project: Web and Mobile Retail Application
+
+Apple Inc. is an American multinational technology          DBS Bank has a suite of Retail Banking
+company headquartered in Cupertino, California, that
+                                                            applications for both Internet and Mobile
+designs, develops, and sells consumer electronics,
+                                                            Banking. Various functionalities need to be
+computer software, and online services. The current
+                                                            tested across different regions.
+project is to Test and Automate GSX applications
+designed for Apple authorized service centers across the
+USA.
+Swarup Mishra
+Chapter Lead - Quality Engineering                 Mobile : +64 22 506 5992
+                                                   EMail : mishra.swarup@gmail.com
+                                                   Address:122A Brougham Street, Mount Victoria, Wellington, 6011
+
+
+
+ Roles:
+● As a test automation lead for automating and service       Roles:
+                                                              ● Working as a test lead and responsible for
+   virtualization tool for various applications
+                                                                  managing other three QA resources.
+● Conducted web and mobile automation workshops
+                                                              ● Creating test strategy, preparing test plan,
+   for project stakeholders
+                                                                  automation plan and automation roadmap.
+● Development of test automation framework using
+                                                              ● Designed and implemented a keyword driven
+   Selenium and Perfecto Mobile.
+                                                                  test automation framework using QTP from
+● Maintenance of existing automation suite using UFT
+                                                                  scratch.
+   and See Test.
+                                                              ● Designed and implemented an Automation
+● Implemented end to end integration of automation                framework using Selenium Web driver for web
+   framework with DevOps (TestNG, Maven, Git,                     applications and handed it over to the project
+   Bitbucket) eco-system and Continuous                           team for creating functional test scripts.
+   Integration(Jenkins) tools                                 ● Implemented a structured test management
+                                                                  system through Quality Center and leveraged
+Cigniti Technologies, Hyderabad, India,                           across other teams.
+Test Automation Architect, Feb, 2015 – May, 2016
+Project: Trader Joes (Retail)                                The Royal Bank of Scotland, Gurgaon, India
+                                                             Test Lead, Dec 2010 to Feb 2013
+Trader Joes has Retail Stores across California, US. They    Project: FOREST (Market Risk Stress Testing)
+have web applications for warehouse and store order
+management.                                                  FOREST – Front Office Revaluation Stress Testing is a
+Roles:                                                       market risk stress testing framework developed by
+● Worked as a test automation architect for the client       RBS. FOREST GUI facilitates users to define some user
+                                                             scenarios by which he perturbs the current market
+● Designed and implemented an Automation
+                                                             data. These scenarios are associated with books sent
+    framework using Selenium Web driver for web
+                                                             to the Front-Office system for revaluation. Front office
+    applications and handed it over to the project team
+                                                             system calculates P&L value depending upon the
+    for creating functional test scripts. Designed scripts
+                                                             perturbed data.
+    in JAVA integrated with TestNG, Maven, Selenium
+                                                             Roles:
+    Grid and Jenkins.
+                                                              ● Worked as a Test Lead. Development of testing
+● Set-up Jenkins Test Lab for CI integration.
+                                                                   processes and test management systems from
+● Used Appium & Selenium Webdriver to demonstrate
+                                                                   scratch.
+    a POC for mobile automation.
+                                                              ● Worked as a Test Automation Lead. Developed
+                                                                   Automation framework using QTP from scratch.
+   BlackRock Solutions India Pvt Ltd, Gurgaon, India, QA      ● Implemented a hybrid automation framework in
+   Lead, Feb, 2013 – Feb, 2015                                     FOREST using QTP.
+   Project: Core Web Platform (Retail & iShares)              ● Written SQL queries for database testing. Used
+                                                                   QTP to automate database test cases.
+   Core Web Platform is a common framework designed           ● Implemented JIRA for defect management.
+   for Blackrock’s retail web applications for a common            Defined defect management process across the
+   Content Management System and managing Mutual                   team.
+   fund and ETF information. This common platform
+   provides customers a unique display to all Blackrock’s
+   products, e.g. Mutual Funds, Exchange Traded Funds
+   (ETF), Global Literature Service(GLS) etc.
+
